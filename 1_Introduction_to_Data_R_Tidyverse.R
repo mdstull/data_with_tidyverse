@@ -88,6 +88,11 @@ summary(my.house)
 
 my.house
 
+# View a Variable using $
+
+my.house$Majority_seats
+
+
 #head(data) - returns the first part of the object
 
 head(my.house)
