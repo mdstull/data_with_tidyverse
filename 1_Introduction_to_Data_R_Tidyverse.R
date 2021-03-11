@@ -14,18 +14,6 @@
 getwd()
 setwd("~/RProjects/LessonPlan_SPR2021/DataAnalysisR")
 
-#Types of Data
-
-#Scale
-  #Interval - ordering with interval between values - $10,000 $15000 $20000 - temperature
-  #Ratio - interval variables, but with the added condition that 0 (zero) of the measurement indicates that there is none of that variable
-
-#Categorical
-  #Ordinal - ordered distance between data has no value 
-  #Nominal - two or more categories w/out natural order
-  
-
-
 #Tidyverse is a collection of packages for data analysis and data visualizations
 
 install.packages("tidyverse")
