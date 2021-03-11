@@ -54,6 +54,8 @@ setwd("insert your wd")
 my.house <- read.csv("house_2018_bystate.csv")
 my.house
 
+view(my.house)
+
 
 
 #read.csv is a shortcut for csv files that defaults to comma separated and first row headers 
